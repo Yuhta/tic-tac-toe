@@ -1,0 +1,12 @@
+* Tic-Tac-Toe
+A Tic-tac-toe game with GUI interface.
+
+** Development Environment
+The program was developed using Microsoft Visual C++ 2008 (yes it’s
+old like that).  It also used Direct3D 9 libraries.
+
+** Binaries and Codes
+There is a prebuilt version of the program in the =Production=
+directory.  It was built for Windows XP under Intel x86 architecture.
+Direct3D 9 runtime libraries are also needed for running.  The source
+codes are put in the =Code= directory.
